@@ -64,3 +64,9 @@ Classifier: Logistic Regression (or SVM)
 Data: Mental health-related chat messages (anonymized & preprocessed)
 
 Note: .pkl files are excluded from this repo due to size. You can train your own or contact the maintainer.
+
+
+## 📬 Contact
+Made by Iqra Khan
+📧 iiqrakhhan@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/iiqrakhan/)
